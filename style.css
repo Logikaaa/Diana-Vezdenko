@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.quastion{
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+.btn-ans{
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+
+.answers{
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+    margin: auto;
+}
